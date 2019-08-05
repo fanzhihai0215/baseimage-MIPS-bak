@@ -20,7 +20,7 @@ febootstrap -i bash -i wget neokylin7 neokylin-base-1.0 http://download.cs2c.com
 parameter description:
 * -i `Package that needs to be installed, for example, install bash, wget here`
 * neokylin7      `Operating system version`
-* neokylin-base-1.0  `Image directory, for example, generate neokylin-base directory in the current directory here`
+* neokylin-base-1.0  `Image directory, for example, generate neokylin-base-1.0 directory in the current directory here`
 * http://download.cs2c.com.cn/neokylin/server/releases/7.0/ls_64    `Mirror OS source address`
 
 Download the directory after installation (equivalent to a complete local system directory of Kylin7)
